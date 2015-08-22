@@ -23,9 +23,9 @@
 
 ### Profesor
 
-| Nombre               | Sección | Github        |  Email         |
-|:-------------------- |:--------|:--------------| :--------------|
-| Raúl Montes          | 1       |  [@raulmt](https://github.com/raulmt)| raulmt@gmail.com |
+| Nombre               | Github        |  Email         |
+|:-------------------- |:--------------| :--------------|
+| Raúl Montes          |  [@raulmt](https://github.com/raulmt)| raulmt@gmail.com |
 
 ### Ayudantes
 
@@ -40,57 +40,61 @@
 El objetivo de este curso es que los alumnos conozcan la infraestructura tecnológica sobre los cual descansa la World Wide Web y aprendan a manejar las principales tecnologías que se utilizan para construir sitios y aplicaciones en la plataforma Web. El objetivo es lograr entregar una base conceptual suficiente como para que el alumno pueda entender las nuevas tecnologías y propuestas que surgen día a día. Al finalizar el curso los alumnos:
 * Conocerán los principales estándares que hacen posible el WWW.
 * Conocerán la arquitectura tecnológica de sitios y aplicaciones Web.
-* Podrán construir sitios con contenido dinámico.
-* Podrán construir aplicaciones usando diversas tecnologías y herramientas.
+* Podrán construir sitios Web con contenido dinámico.
+* Podrán construir aplicaciones Web usando diversas tecnologías y herramientas.
 * Estarán capacitados para entender y evaluar los méritos de las nuevas tecnologías.
 
 ## Contenidos
-* Preliminares
-    * Pasado, presente y futuro de la Web
-    * La Web como plataforma de desarrollo
-    * Arquitectura de una aplicación Web típica (modelo MVC)
-    * Lenguajes y Frameworks para desarrollo Web
-* Introducción a Ruby on Rails
-    * Una primera mirada al framework
-    * Introducción al lenguaje de programación Ruby
-    * Presentación de la aplicación que desarrollaremos en clases
-* Desarrollo de una aplicación típica
-    * Controladores y Vistas
-    * El Protocolo HTTP
-    * XML, HTML y XHTML
-    * Modelo
-    * Clases, tablas, migraciones y scaffolds
-    * Validación de la entrada
-    * Control de la presentación con CSS
-* Una Web de APIs de programación
-    * Introducción a los servicios web
-    * REST
-    * Diseñando un API Restful
-* Aplicaciones web de cliente enriquecido (RIA)
-    * JavaScript y el DOM
-    * Introducción a JQuery
-    * AJAX: Mejorando la experiencia del usuario
-    * El futuro de aplicaciones internet ricas: HTML5
-* Aspectos finales
-    * Introducción a aspectos de seguridad
-    * Protocolo seguro HTTPS
-    * Aspectos de performance
+* Preliminares:
+    * Pasado, presente y futuro de la Web.
+    * La Web como plataforma de desarrollo.
+    * Arquitectura de una aplicación Web típica (modelo MVC).
+    * Lenguajes y Frameworks para desarrollo Web.
+* Introducción a Ruby on Rails:
+    * Una primera mirada al framework.
+    * Introducción al lenguaje de programación Ruby.
+    * Presentación de la aplicación que desarrollaremos en clases.
+* Desarrollo de una aplicación típica:
+    * Controladores y Vistas.
+    * El Protocolo HTTP.
+    * XML, HTML y XHTML.
+    * Modelo.
+    * Clases, tablas, migraciones y scaffolds.
+    * Validación de la entrada (*input*).
+    * Control de la presentación con CSS.
+* Una Web de APIs de programación:
+    * Introducción a los servicios web.
+    * REST.
+    * Diseñando un API Restful.
+* Aplicaciones web de cliente enriquecido (RIA):
+    * JavaScript y el DOM.
+    * Introducción a jQuery.
+    * AJAX: Mejorando la experiencia del usuario.
+    * El futuro de aplicaciones internet ricas: HTML5.
+* Aspectos finales:
+    * Introducción a aspectos de seguridad.
+    * Protocolo seguro HTTPS.
+    * Aspectos de performance.
 
-## Metodologia
+## Metodología
 
-A lo largo del semestre el profesor desarrolla sistemáticamente una aplicación web en clases. Las distintas tecnologías, estándares y técnicas van siendo introducidas a medida que la aplicación se completa, en el momento que se hacen necesarios. Por otra parte, los alumnos trabajan en grupo desarrollando una aplicación propia durante el semestre. Cada dos semanas los alumnos son evaluados por su grado de avance en el proyecto.
+A lo largo del semestre el profesor desarrolla sistemáticamente una aplicación Web en clases. Las distintas tecnologías, estándares y técnicas van siendo introducidas a medida que la aplicación se completa, en el momento que se hacen necesarios. Por otra parte, los alumnos trabajan en grupo desarrollando una aplicación propia durante el semestre. Cada dos semanas los alumnos son evaluados por su grado de avance en el proyecto.
 Se espera un trabajo personal significativo por parte de los alumnos, ya sea:
-* Lectura y estudio de aspectos específicos del lenguaje y/o del framework
-* Lecturas complementarias que profundizan y amplían lo que se discute en clases
-* Desarrollo del proyecto a lo largo del semestre
+* Lectura y estudio de aspectos específicos del lenguaje y/o del framework.
+* Lecturas complementarias que profundizan y amplían lo que se discute en clases.
+* Desarrollo del proyecto a lo largo del semestre.
 
-## Evaluacion
+## Evaluación
 
 Se llevarán a cabo tres interrogaciones escritas que cubren el material visto en clases y lo asignado como lectura o estudio personal, más un examen final que cubre todo el material del semestre. Adicionalmente, la nota del examen puede reemplazar a la nota de una de las dos interrogaciones, ya sea se haya rendido o no por alguna razón.
 El trabajo práctico en el proyecto será evaluado en la siguiente forma: un 50% de la nota corresponderá al promedio de las evaluaciones periódicas parciales y un 50% corresponderá a la entrega del producto final. Para tener derecho a la entrega final debe acreditarse un avance de al menos un 50% al completar la última evaluación parcial.
-La nota final considera las interrogaciones, el examen práctico, una nota de participación y el proyecto de la siguiente forma:
+La nota final considera las interrogaciones, el examen práctico y el proyecto de la siguiente forma:
 
-TODO: fórmula
+* **Nota Teórica: (I1 + I2 + I3 + Ex) / 5**
+* **Nota Práctica: (Promedio entregas parciales) * 0.5 + (Entrega final) * 0.5**
+* **Nota final:**
+  * Si notas Teórica y Práctica son mayores o iguales a 4 entonces es el promedio de ambas.
+  * En caso contrario, la menor entre ambas
 
 
 ## Bibliografia
@@ -154,7 +158,7 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 * [Código](https://github.com/IIC2513-2015-2/syllabus/labels/C%C3%B3digo): sobre métodos, clases, sintaxis, estándares, etc.
 * [Enunciado o Entrega](https://github.com/IIC2513-2015-2/syllabus/labels/Enunciado%20o%20Entrega): sobre el enunciado de alguna entrega.
 * [Interrogación](https://github.com/IIC2513-2015-2/syllabus/labels/Interrogaci%C3%B3n): sobre fechas, contenido, recorreción de interrogaciones, etc.
-* [Materia](https://github.com/IIC2513-2015-2/syllabus/labels/Materia): sobre conceptos y/o temas vistos en clases o fuera de esta.
+* [Materia](https://github.com/IIC2513-2015-2/syllabus/labels/Materia): sobre conceptos y/o temas vistos en clases o fuera de ésta.
 * [Duplicada](https://github.com/IIC2513-2015-2/syllabus/labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original.
 * [Gemas](https://github.com/IIC2513-2015-2/syllabus/labels/Gemas): Consultas si se puede utilizar cierta gema o no.
 * [Git](https://github.com/IIC2513-2015-2/syllabus/labels/Git): Preguntas relacionadas con `git`
@@ -165,14 +169,14 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 ## Procedimiento
 
 Antes de postear:
-* Buscar en internet hasta encontrar la solución.
-* Si pasan horas y el problema persiste, entrar a [Issues](https://github.com/IIC2513-2015-2/syllabus/issues).
-* Buscar si alguien tiene la misma pregunta o problema.
-	* Si encuestra un post marcado como resueto, pero no te satisface la respuesta, puedes comentar la issue y **volver a abrirla**.
-* En caso de no encontrar un post que te sirva, lo creamos presionando **[New issue](https://github.com/IIC2513-2015-2/syllabus/issues/new)**.
-* Escribir una entrada **explicando bien el problema o pregunta**.
-* Publicar.
+* Busca en Internet para encontrar la solución.
+* Si pasan horas y el problema persiste, entra a [Issues](https://github.com/IIC2513-2015-2/syllabus/issues).
+* Busca si alguien tiene la misma pregunta o problema.
+	* Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la issue y **volver a abrirla**.
+* En caso de no encontrar un post que te sirva, lo creas presionando **[New issue](https://github.com/IIC2513-2015-2/syllabus/issues/new)**.
+* Escribe una entrada **explicando bien el problema o pregunta**.
+* Publica.
 
-> Tanto al publicar como comentar, se debe atenerse a las **normas del curso**, además debes utilizar **[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
+Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Además, debes utilizar **[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
 
-Una vez resuelto el problema, dar las **gracias** y **cerrar la issue**.
+Una vez resuelto el problema, da las **gracias** y **cierra el issue**.
