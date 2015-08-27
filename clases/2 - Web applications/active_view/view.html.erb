@@ -1,0 +1,15 @@
+<div>
+	<% if @first_time %>
+		Hola! <strong>Bienvenido!</strong>
+	<% else %>
+		Hola! Que bueno que volviste!
+	<% end %>
+	
+	<hr />
+	
+	<ul>
+		<% @items.each do |item| %>
+			<li><%= inspect_item(item) %></li>
+		<% end %>
+	</ul>
+</div>
