@@ -95,6 +95,11 @@ La nota final considera las interrogaciones, el examen práctico y el proyecto d
 * **Nota final:**
   * Si notas Teórica y Práctica son mayores o iguales a 4 entonces es el promedio de ambas.
   * En caso contrario, la menor entre ambas
+* **Fechas:**
+  * **I1:** 10 de Septiembre
+  * **I2:** 14 de Octubre
+  * **I3:** 11 de Noviembre
+  * **Exámen:** 30 de Noviembre
 
 
 ## Bibliografia
