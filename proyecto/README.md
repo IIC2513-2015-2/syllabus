@@ -14,7 +14,7 @@ La asignación de proyectos por equipo es la siguiente:
 | Rock and Prog | [SongFlow](alternativas/SongFlow.md) |
 | InternalServerError | B-Movies |
 | String.random | [Alma](alternativas/Alma.md) |
-| ihjgbvoiik | [CityConquest](alternativas/CityConquest.md) |
+| ZipCity2000 | [CityConquest](alternativas/CityConquest.md) |
 | PW:Software | [SongFlow](alternativas/SongFlow.md) |
 | ToPa | [Alma](alternativas/Alma.md) |
 | tqzptscsaj | [CityConquest](alternativas/CityConquest.md) |
