@@ -1,12 +1,29 @@
 # Proyecto Semestral
 
-Cada equipo tendrá asignado un proyecto potencialmente distinto. Algunos equipos tendrán asignado alguno de los proyectos que postularon en su inscripción inicial, mientras que otros equipos eligirán un proyecto de entre las propuestas publicadas por el equipo docente. Éstas son:
+La asignación de proyectos por equipo es la siguiente:
 
-* [Alma](alternativas/Alma.md)
-* [CityConquest](alternativas/CityConquest.md)
-* [SongFlow](alternativas/SongFlow.md)
+| Equipo   | Proyecto  |
+|:---------|:----------|
+| LosExtraterrestresMusicales | [SongFlow](alternativas/SongFlow.md) |
+| Rupie | Save me Sensei |
+| TheTeam | ApUntate |
+| Veritas | La Resistencia |
+| YisusPlusOne | [CityConquest](alternativas/CityConquest.md) |
+| ImaginApp | Carpooling |
+| Nebuchadnezzar | Linked On |
+| Rock and Prog | [SongFlow](alternativas/SongFlow.md) |
+| InternalServerError | B-Movies |
+| String.random | [Alma](alternativas/Alma.md) |
+| ihjgbvoiik | [CityConquest](alternativas/CityConquest.md) |
+| PW:Software | [SongFlow](alternativas/SongFlow.md) |
+| ToPa | [Alma](alternativas/Alma.md) |
+| tqzptscsaj | [CityConquest](alternativas/CityConquest.md) |
 
 Durante el semestre tendrán que realizar 6 entregas, y cada una irá construyendo sobre la anterior, por lo que es importante mantenerse al día. Los enunciados dan la línea general de funcionalidad que deben implementar, pero serán deliberadamente ambiguos de manera que ustedes usen su creatividad para crear una aplicación realmente única. Salvo algunos casos, ustedes tendrán total libertad en cuanto a la interfaz y la implementación de su trabajo.
+
+A continuación, las fechas y enunciados de las entregas:
+
+* [Entrega 1](entregas/Entrega1.md): 16 de septiembre de 2015 a las 23:59:59.999
 
 ## Indicaciones
 
