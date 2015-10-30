@@ -86,7 +86,7 @@ Se espera un trabajo personal significativo por parte de los alumnos, ya sea:
 
 ## Evaluación
 
-Se llevarán a cabo tres interrogaciones escritas que cubren el material visto en clases y lo asignado como lectura o estudio personal, más un examen final que cubre todo el material del semestre. Adicionalmente, la nota del examen puede reemplazar a la nota de una de las dos interrogaciones, ya sea se haya rendido o no por alguna razón.
+Se llevarán a cabo tres interrogaciones escritas que cubren el material visto en clases y lo asignado como lectura o estudio personal, más un examen final que cubre todo el material del semestre. Adicionalmente, la nota del examen puede reemplazar a la nota de una de las tres interrogaciones, ya sea se haya rendido o no por alguna razón.
 El trabajo práctico en el proyecto será evaluado en la siguiente forma: un 50% de la nota corresponderá al promedio de las evaluaciones periódicas parciales y un 50% corresponderá a la entrega del producto final. Para tener derecho a la entrega final debe acreditarse un avance de al menos un 50% al completar la última evaluación parcial.
 La nota final considera las interrogaciones, el examen práctico y el proyecto de la siguiente forma:
 
