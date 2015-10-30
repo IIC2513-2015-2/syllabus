@@ -1,0 +1,7 @@
+<%= simple_form_for(@visit) do |f| %>
+  <%= f.input :name %>
+  <%= f.input :birth %>
+  <%= f.input :country %>
+  <%= f.input :answer, label: '¿De qué color es la pata de un conejo?' %>
+  <%= f.submit %>
+<% end -%>
