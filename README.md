@@ -90,7 +90,7 @@ Se llevarán a cabo tres interrogaciones escritas que cubren el material visto e
 El trabajo práctico en el proyecto será evaluado en la siguiente forma: un 50% de la nota corresponderá al promedio de las evaluaciones periódicas parciales y un 50% corresponderá a la entrega del producto final. Para tener derecho a la entrega final debe acreditarse un avance de al menos un 50% al completar la última evaluación parcial.
 La nota final considera las interrogaciones, el examen práctico y el proyecto de la siguiente forma:
 
-* **Nota Teórica: (I1 + I2 + I3 + Ex) / 5**
+* **Nota Teórica: (I1 + I2 + I3 + 2 * Ex - min(I1, I2, I3, Ex)) / 4**
 * **Nota Práctica: (Promedio entregas parciales) * 0.5 + (Entrega final) * 0.5**
 * **Nota final:**
   * Si notas Teórica y Práctica son mayores o iguales a 4 entonces es el promedio de ambas.
