@@ -5,7 +5,7 @@
     	* [Ayudantes](#ayudantes)
     * [Objetivos](#objetivos)
     * [Contenidos](#contenidos)
-    * [Metodología](#metodologia)
+    * [Metodología](#metodología)
     * [Evaluación](#evaluacion)
     * [Bibliografía](#bibliografia)
     * [Política de integridad académica](#politica-de-integridad-academica)
